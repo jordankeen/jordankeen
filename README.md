@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
    <div id="badges">
-      <a href="https://www.linkedin.com/in/jordankeen/">
+      <a href="https://www.linkedin.com/in/jordankeen/" target="_blank">
          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
    </div>
@@ -14,16 +14,16 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <p align="center">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React" width="45" height="45" align="left" />
-   <img align="left"  width="45" height="45" alt="JavaScript" title="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-   <img align="left"  width="45" height="45" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" align="left"  width="45" height="45" />
-   <img align="left"  width="45" height="45" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
-   <img align="left"  width="45" height="45" alt="Sass" title="Sass" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" width="45" height="45" align="left" />
+   <img align="left" width="45" height="45" title="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+   <img align="left" width="45" height="45" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" align="left"  width="45" height="45" />
+   <img align="left" width="45" height="45" title="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
+   <img align="left" width="45" height="45" title="Sass" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" align="left"  width="45" height="45" />
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" align="left"  width="45" height="45" />
-   <img align="left"  width="45" height="45" title="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />
-   <img align="left"  width="45" height="45" title="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />
+   <img align="left" width="45" height="45" title="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />
+   <img align="left" width="45" height="45" title="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />
    <img align="left" width="45" height="45" title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p>
 
@@ -32,9 +32,9 @@
 <br>
 
 <p align="center">
-   <img align="left"  width="45" height="45" title="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-   <img align="left"  width="45" height="45" title="Photoshop" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
-   <img align="left"  width="45" height="45" title="Jira" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" />
+   <img align="left" width="45" height="45" title="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+   <img align="left" width="45" height="45" title="Photoshop" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
+   <img align="left" width="45" height="45" title="Jira" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" />
 </p>
 
 <br>
@@ -51,9 +51,9 @@
 
 ### :fire: My Stats :
 
-<p align="center">
-   <img  width="40%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jordankeen&theme=horizon&show_icons=true" />&nbsp;&nbsp;
-   <img  width="40%" alt="Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jordan-keen&theme=python-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
+<p align="left">
+<!--    <img  width="40%" title="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jordankeen&theme=horizon&show_icons=true" />&nbsp;&nbsp; -->
+   <img  width="40%" title="Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jordan-keen&theme=python-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
    <!-- <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordankeen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" /> -->
 </p>
 
