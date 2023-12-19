@@ -38,9 +38,8 @@
 <br />
 <br />
 <br />
-<p>
 ### :hammer_and_wrench: Tech Stack :
-
+<p>
 - **Frontend**: React.js, JavaScript, TypeScript, Material UI, HTML5, Sass, CSS3, PHP
 - **Version Control**: Git, GitHub
 - **Designing Tool**: Figma, Adobe Photoshop
