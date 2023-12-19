@@ -36,10 +36,9 @@
 </p>
 <br />
 <br />
-
-<p>
 <br />
-   <br />
+<br />
+<p>
 ### :hammer_and_wrench: Tech Stack :
 
 - **Frontend**: React.js, JavaScript, TypeScript, Material UI, HTML5, Sass, CSS3, PHP
