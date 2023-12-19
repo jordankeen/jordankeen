@@ -30,7 +30,7 @@
 <br>
 <br>
 <br>
-<br>
+
 <p align="center">
    <img align="left"  width="45" height="45" title="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
    <img align="left"  width="45" height="45" title="Photoshop" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
@@ -49,14 +49,13 @@
 - **Editor**: Visual Studio Code
 
 
-<!-- ### :fire: My Stats : -->
+### :fire: My Stats :
 
-<!-- <p align="center">
-   <img  width="40%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jordankeen&theme=horizon&show_icons=true"  />&nbsp;&nbsp;
+<p align="center">
+   <img  width="40%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jordankeen&theme=horizon&show_icons=true" />&nbsp;&nbsp;
    <img  width="40%" alt="Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jordan-keen&theme=python-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
-   <br/>
-   <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordankeen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" />
-</p> -->
+   <!-- <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordankeen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" /> -->
+</p>
 
 
 
