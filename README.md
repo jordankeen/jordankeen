@@ -14,12 +14,14 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <p align="center">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="45" height="45" align="left">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React" width="45" height="45" align="left">
    <img align="left"  width="45" height="45" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+   <img align="left"  width="45" height="45" alt="Sass" title="Sass" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+   <img align="left"  width="45" height="45" alt="HTML5"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+   
    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" align="left"  width="45" height="45">
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" align="left"  width="45" height="45">
    <img align="left"  width="45" height="45" alt="TypeScript"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-   <img align="left"  width="45" height="45" alt="HTML5"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </p>
 
 <p align="center">
