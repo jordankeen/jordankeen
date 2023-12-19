@@ -29,7 +29,7 @@
    <img align="left"  width="45" height="45" title="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
    <img align="left" width="45" height="45" title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </p>
-<p align="center">
+<p align="center" style="margin-top:5px">
    <img align="left"  width="45" height="45" title="Figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
    <img align="left"  width="45" height="45" title="Photoshop" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
    <img align="left"  width="45" height="45" title="Jira" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg">
@@ -38,7 +38,8 @@
 <br />
 
 <p>
-
+<br />
+   <br />
 ### :hammer_and_wrench: Tech Stack :
 
 - **Frontend**: React.js, JavaScript, TypeScript, Material UI, HTML5, Sass, CSS3, PHP
