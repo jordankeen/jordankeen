@@ -51,11 +51,11 @@
 
 ### :fire: My Stats :
 
-<p align="left">
+<!-- <p align="left"> -->
 <!--    <img  width="40%" title="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jordankeen&theme=horizon&show_icons=true" />&nbsp;&nbsp; -->
-   <img  width="40%" title="Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jordan-keen&theme=python-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
+<!--    <img  width="40%" title="Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jordan-keen&theme=python-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" /> -->
    <!-- <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordankeen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" /> -->
-</p>
+<!-- </p> -->
 
 
 
